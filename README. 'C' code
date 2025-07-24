@@ -1,0 +1,7 @@
+#include <stdio.h>
+int main() {
+    //Your Code goes here!
+     printf("Hi, Wellcome\n");               // (;) Means it tells the computer, "This command is complete."
+     printf("HELLO WORLD");
+    return 0;
+}
